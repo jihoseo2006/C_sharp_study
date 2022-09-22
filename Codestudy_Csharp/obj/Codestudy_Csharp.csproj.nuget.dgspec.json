@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DSM2022\\source\\repos\\Codestudy_Csharp\\Codestudy_Csharp.csproj": {}
+    "C:\\Users\\DSM2022\\OneDrive\\바탕 화면\\문서\\GitHub\\C_sharp_study\\Codestudy_Csharp\\Codestudy_Csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DSM2022\\source\\repos\\Codestudy_Csharp\\Codestudy_Csharp.csproj": {
+    "C:\\Users\\DSM2022\\OneDrive\\바탕 화면\\문서\\GitHub\\C_sharp_study\\Codestudy_Csharp\\Codestudy_Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DSM2022\\source\\repos\\Codestudy_Csharp\\Codestudy_Csharp.csproj",
+        "projectUniqueName": "C:\\Users\\DSM2022\\OneDrive\\바탕 화면\\문서\\GitHub\\C_sharp_study\\Codestudy_Csharp\\Codestudy_Csharp.csproj",
         "projectName": "Codestudy_Csharp",
-        "projectPath": "C:\\Users\\DSM2022\\source\\repos\\Codestudy_Csharp\\Codestudy_Csharp.csproj",
+        "projectPath": "C:\\Users\\DSM2022\\OneDrive\\바탕 화면\\문서\\GitHub\\C_sharp_study\\Codestudy_Csharp\\Codestudy_Csharp.csproj",
         "packagesPath": "C:\\Users\\DSM2022\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DSM2022\\source\\repos\\Codestudy_Csharp\\obj\\",
+        "outputPath": "C:\\Users\\DSM2022\\OneDrive\\바탕 화면\\문서\\GitHub\\C_sharp_study\\Codestudy_Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DSM2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
