@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Codestudy_Csharp/1.0.0": {
+        "runtime": {
+          "Codestudy_Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Codestudy_Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
