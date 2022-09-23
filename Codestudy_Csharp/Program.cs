@@ -2,6 +2,8 @@
 //Console.WriteLine("Hello, World!");
 
 using System;
+using System.Diagnostics;
+using System.Text;
 namespace MySystem
 {
     class Program
@@ -23,33 +25,47 @@ namespace MySystem
         //}
         
         //문자열,문자,문자배열.
-        static void Main(string[] args)
+        //static void Main(string[] args)
+        //{
+        //    string s = "C# Studies";
+
+        //    //문자열 배열 인덱스로 한문자 엑세스
+        //    for (int i = 0; i < s.Length; i++)
+        //    {
+        //        Console.WriteLine("{0}: {1}", i, s[i]);
+        //    }
+
+        //    //문자열을 문자배열로 변환
+        //    string str = "hello";
+        //    char[] charArray = str.ToCharArray();
+
+        //    for(int i = 0; i < charArray.Length; i++)
+        //    {
+        //        Console.WriteLine(charArray);
+        //    }
+
+        //    char[] charArray2 = { 'A', 'B', 'C', 'D' };
+        //    s = new string(charArray2);
+
+        //    Console.WriteLine(s);
+
+        //    char c1 = 'A';
+        //    char c2 = (char)(c1 + 3);
+        //    Console.WriteLine(c2);  
+        //}
+        
+        static void Main(string[] args)//stringbuilder 클래스
         {
-            string s = "C# Studies";
-
-            //문자열 배열 인덱스로 한문자 엑세스
-            for (int i = 0; i < s.Length; i++)
+            StringBuilder sb = new StringBuilder();
+            for(int i = 1; i <= 26; i++)
             {
-                Console.WriteLine("{0}: {1}", i, s[i]);
+                sb.Append(i.ToString());
+                sb.Append(System.Environment.NewLine);
             }
-
-            //문자열을 문자배열로 변환
-            string str = "hello";
-            char[] charArray = str.ToCharArray();
-
-            for(int i = 0; i < charArray.Length; i++)
-            {
-                Console.WriteLine(charArray);
-            }
-
-            char[] charArray2 = { 'A', 'B', 'C', 'D' };
-            s = new string(charArray2);
+            string s = sb.ToString();
 
             Console.WriteLine(s);
-
-            char c1 = 'A';
-            char c2 = (char)(c1 + 3);
-            Console.WriteLine(c2);  
         }
+
     }
 }

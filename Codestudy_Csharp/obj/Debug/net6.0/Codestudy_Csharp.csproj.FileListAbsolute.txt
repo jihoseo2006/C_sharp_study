@@ -13,3 +13,18 @@ C:\Users\DSM2022\source\repos\Codestudy_Csharp\obj\Debug\net6.0\refint\Codestudy
 C:\Users\DSM2022\source\repos\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.pdb
 C:\Users\DSM2022\source\repos\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.genruntimeconfig.cache
 C:\Users\DSM2022\source\repos\Codestudy_Csharp\obj\Debug\net6.0\ref\Codestudy_Csharp.dll
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\bin\Debug\net6.0\Codestudy_Csharp.exe
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\bin\Debug\net6.0\Codestudy_Csharp.deps.json
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\bin\Debug\net6.0\Codestudy_Csharp.runtimeconfig.json
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\bin\Debug\net6.0\Codestudy_Csharp.dll
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\bin\Debug\net6.0\Codestudy_Csharp.pdb
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.csproj.AssemblyReference.cache
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.AssemblyInfoInputs.cache
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.AssemblyInfo.cs
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.dll
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\refint\Codestudy_Csharp.dll
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.pdb
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\Codestudy_Csharp.genruntimeconfig.cache
+C:\Users\DSM2022\OneDrive\바탕 화면\문서\GitHub\C_sharp_study\Codestudy_Csharp\obj\Debug\net6.0\ref\Codestudy_Csharp.dll
